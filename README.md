@@ -1,5 +1,10 @@
 # Prisma + PostgreSQL Setup & Data Seeding (with TypeScript and Next.js)
 
+## .env.local and .env
+```env
+DATABASE_URL="postgresql://username:password@localhost:5432/dbname?schema=public"
+```
+
 ## prisma.config.ts
 
 ```ts
