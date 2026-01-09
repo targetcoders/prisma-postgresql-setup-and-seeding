@@ -1,1 +1,1 @@
-# prisma-postgresql-setup-and-seeding
+# Prisma + PostgreSQL Setup & Data Seeding (with TypeScript and Next.js)
