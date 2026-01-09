@@ -116,3 +116,17 @@ main()
     await prisma.$disconnect();
   });
 ```
+
+## Commands
+### Generate Prisma Client & tables
+```bash
+npx prisma generate
+```
+### Seed data
+```bash
+npx ts-node prisma/seed.ts
+```
+### View data with Prisma Studio
+```bash
+npx prisma studio
+```
